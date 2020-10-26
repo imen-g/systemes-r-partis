@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<endpoints version="2.0" xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime">
+  <endpoint implementation="tp.multi.ws.ConvertisseurWS" name="ConvertisseurWS" url-pattern="/ConvertisseurWS"/>
+  <endpoint implementation="tp.multi.ws.PoidsIdealWS" name="PoidsIdealWS" url-pattern="/PoidsIdealWS"/>
+  <endpoint implementation="tp.multi.ws.Convertisseur" name="Convertisseur" url-pattern="/Convertisseur"/>
+  <endpoint implementation="tp.multi.ws.PoidsIdeal" name="PoidsIdeal" url-pattern="/PoidsIdeal"/>
+</endpoints>
